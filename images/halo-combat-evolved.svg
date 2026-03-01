@@ -1,0 +1,5 @@
+<svg width="500" height="500" xmlns="http://www.w3.org/2000/svg">
+  <rect width="500" height="500" fill="#0a1628"/>
+  <text x="250" y="230" font-family="Arial, sans-serif" font-size="28" fill="#00ff41" text-anchor="middle" dominant-baseline="middle">Halo Combat</text>
+  <text x="250" y="270" font-family="Arial, sans-serif" font-size="28" fill="#00ff41" text-anchor="middle" dominant-baseline="middle">Evolved</text>
+</svg>
